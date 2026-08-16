@@ -1,0 +1,6 @@
+{
+  "name": "AI Tools Studio",
+  "description": "Comprehensive AI tool suite featuring an ATS Resume Builder, Interactive Roadmap Generator, Power BI DAX & Visual Architect, Excel Formula & Macro Engine, Interactive PPT to Visuals Studio with live charts and polls, and architectural blueprints explaining how to build and run AI tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
